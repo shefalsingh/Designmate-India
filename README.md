@@ -1,0 +1,4 @@
+Designmate-India
+================
+
+: ‘Eureka.in’ is a syllabi based digital library of 3D animated content catering to K12 curriculum of Physics, Chemistry, Biology and Mathematics.  The library comprises  several ‘Learning Objects’ to explain various Science and Mathematics concepts, wherein each such learning object is a unique combination of learning resources like Text, Video, Simulation, Quiz, Web-links, Images and Key terms. The animated videos act as a strong visualization tool to help students understand even the most abstract concepts and the simulations working in conjunction give them a chance to interact with these concepts providing an over the edge understanding. 
